@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "透卡",
+    "name": "透卡B",
     "category": "透卡",
     "stock": 10
   },
@@ -10,5 +10,10 @@
     "name": "钥匙扣A",
     "category": "钥匙扣",
     "stock": 5
+  },
+  {
+    "name": "吧唧A",
+    "category": "徽章",
+    "stock": 20
   }
 ]
