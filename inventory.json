@@ -15,5 +15,10 @@
     "name": "吧唧A",
     "category": "徽章",
     "stock": 20
+  },
+  {
+    "name": "书签",
+    "category": "其他",
+    "stock": 30
   }
 ]
